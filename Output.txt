@@ -1,0 +1,10 @@
+C:\Users\Boas\AppData\Local\Programs\Python\Python312\python.exe "C:\Users\Boas\Desktop\School Projects\Event-Ticket-System\Event Ticket System\Main.py" 
+Here are the most popular tickets in the past month:
+-  Washington Spirits vs Sky Blue FC
+-  The North American International Auto Show
+-  Christmas Spectacular
+-  Christmas Spectacular
+-  Carlisle Ford Nationals
+-  The North American International Auto Show
+
+Process finished with exit code 0
